@@ -1,0 +1,8 @@
+{
+  "name": "fox.pi",
+  "scripts": [],
+  "nodeList": [
+    "biber.pi",
+    "pi.pi"
+  ]
+}

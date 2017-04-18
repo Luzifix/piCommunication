@@ -1,0 +1,22 @@
+{
+  "name": "piChat",
+  "version": "0.0.3",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.lost-code.de:luzifix/piChat.git"
+  },
+  "author": "Mahmood Dhia",
+  "license": "ISC",
+  "dependencies": {
+    "fully-connected-topology": "^1.1.1",
+    "hash-to-port": "^1.0.0",
+    "lookup-multicast-dns": "^1.0.3",
+    "register-multicast-dns": "^1.1.0",
+    "stream-set": "^1.1.0"
+  }
+}
